@@ -1,0 +1,22 @@
+{
+  "name": "totallynottrello",
+  "version": "1.0.0",
+  "description": "trello clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JKosciukiewicz/TotallyNotTrello.git"
+  },
+  "author": "Jakub Kościukiewicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JKosciukiewicz/TotallyNotTrello/issues"
+  },
+  "homepage": "https://github.com/JKosciukiewicz/TotallyNotTrello#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
+}
